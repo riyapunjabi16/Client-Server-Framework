@@ -1,0 +1,5 @@
+apply plugin:'java'
+dependencies
+{
+compile files('c:/uec20187am/common/build/libs/common.jar')
+}
